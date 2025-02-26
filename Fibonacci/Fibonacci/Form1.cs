@@ -46,5 +46,22 @@ namespace Fibonacci
             return Fibonacci(n - 1) + Fibonacci(n - 2);
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+                    Button b = new Button();
+                    b.Left = i*20;
+                    b.Top = j*20;
+                    b.Width = 20;
+                    b.Height = 20;
+                    Controls.Add(b);
+                }
+            }
+
+            
+        }
     }
 }
