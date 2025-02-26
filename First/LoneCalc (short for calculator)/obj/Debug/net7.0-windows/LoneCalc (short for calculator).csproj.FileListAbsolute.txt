@@ -1,0 +1,17 @@
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\bin\Debug\net7.0-windows\LoneCalc (short for calculator).exe
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\bin\Debug\net7.0-windows\LoneCalc (short for calculator).deps.json
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\bin\Debug\net7.0-windows\LoneCalc (short for calculator).runtimeconfig.json
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\bin\Debug\net7.0-windows\LoneCalc (short for calculator).dll
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\bin\Debug\net7.0-windows\LoneCalc (short for calculator).pdb
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).csproj.AssemblyReference.cache
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc__short_for_calculator_.Form1.resources
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).csproj.GenerateResource.cache
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).AssemblyInfoInputs.cache
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).AssemblyInfo.cs
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).csproj.CoreCompileInputs.cache
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).dll
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\refint\LoneCalc (short for calculator).dll
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).pdb
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\LoneCalc (short for calculator).genruntimeconfig.cache
+C:\Users\bz5462\source\repos\First\LoneCalc (short for calculator)\obj\Debug\net7.0-windows\ref\LoneCalc (short for calculator).dll
