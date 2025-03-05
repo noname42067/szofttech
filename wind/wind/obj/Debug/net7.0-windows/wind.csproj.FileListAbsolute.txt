@@ -1,0 +1,17 @@
+C:\Users\bz5462\source\repos\wind\wind\bin\Debug\net7.0-windows\wind.exe
+C:\Users\bz5462\source\repos\wind\wind\bin\Debug\net7.0-windows\wind.deps.json
+C:\Users\bz5462\source\repos\wind\wind\bin\Debug\net7.0-windows\wind.runtimeconfig.json
+C:\Users\bz5462\source\repos\wind\wind\bin\Debug\net7.0-windows\wind.dll
+C:\Users\bz5462\source\repos\wind\wind\bin\Debug\net7.0-windows\wind.pdb
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.csproj.AssemblyReference.cache
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.Form1.resources
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.csproj.GenerateResource.cache
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.AssemblyInfoInputs.cache
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.AssemblyInfo.cs
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.csproj.CoreCompileInputs.cache
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.dll
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\refint\wind.dll
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.pdb
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\wind.genruntimeconfig.cache
+C:\Users\bz5462\source\repos\wind\wind\obj\Debug\net7.0-windows\ref\wind.dll
