@@ -1,0 +1,17 @@
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\bin\Debug\net7.0-windows\ZH1D_bz5462.exe
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\bin\Debug\net7.0-windows\ZH1D_bz5462.deps.json
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\bin\Debug\net7.0-windows\ZH1D_bz5462.runtimeconfig.json
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\bin\Debug\net7.0-windows\ZH1D_bz5462.dll
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\bin\Debug\net7.0-windows\ZH1D_bz5462.pdb
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.csproj.AssemblyReference.cache
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.Form1.resources
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.csproj.GenerateResource.cache
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.AssemblyInfoInputs.cache
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.AssemblyInfo.cs
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.csproj.CoreCompileInputs.cache
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.dll
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\refint\ZH1D_bz5462.dll
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.pdb
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ZH1D_bz5462.genruntimeconfig.cache
+C:\Users\bz5462\source\repos\ZH1D_bz5462\ZH1D_bz5462\obj\Debug\net7.0-windows\ref\ZH1D_bz5462.dll
