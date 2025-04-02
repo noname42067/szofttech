@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQwE4bMxdCXPmV+744scueThUnhlAQyE5Utnhwl2wk+foW3K5lelcagSlyg1peo7/omEiLqZrhXNIrC6GF4mZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bz5462\\source\\repos\\week7\\week7\\week7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bz5462\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
